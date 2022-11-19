@@ -1,4 +1,4 @@
-this is a market project made by nextjs ,tailwindcss , nodejs ,expressjs ,mongodb and strip .
+this is a market project made by nextjs ,tailwindcss , nodejs ,expressjs ,mongodb and stripe .
 
 ## > home page
 
