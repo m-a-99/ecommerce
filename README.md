@@ -1,6 +1,6 @@
 this is a market project made by nextjs ,tailwindcss , nodejs ,expressjs ,mongodb and strip .
 
-#home page
+##home page
 ![localhost_4000_ (1)](https://user-images.githubusercontent.com/112770883/202870422-b3f996e7-da3c-4dae-aa1e-fd0eab4a549f.png)
 cart list
 ![localhost_4000_ (3)](https://user-images.githubusercontent.com/112770883/202870481-08a8f0e1-79db-4d0a-81b7-0e6abbb17a01.png)
